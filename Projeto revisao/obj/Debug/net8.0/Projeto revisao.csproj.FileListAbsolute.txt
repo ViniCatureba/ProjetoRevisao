@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\bin\Debug\net8.0\Projeto revisao.exe
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\bin\Debug\net8.0\Projeto revisao.deps.json
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\bin\Debug\net8.0\Projeto revisao.runtimeconfig.json
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\bin\Debug\net8.0\Projeto revisao.dll
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\bin\Debug\net8.0\Projeto revisao.pdb
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\Projeto revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\Projeto revisao.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\Projeto revisao.AssemblyInfo.cs
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\Projeto revisao.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\Projeto revisao.dll
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\refint\Projeto revisao.dll
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\Projeto revisao.pdb
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\Projeto revisao.genruntimeconfig.cache
+C:\Users\vinic\Desktop\C#\Projeto revisao\Projeto revisao\Projeto revisao\obj\Debug\net8.0\ref\Projeto revisao.dll

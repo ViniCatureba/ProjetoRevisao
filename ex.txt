@@ -1,0 +1,75 @@
+## **Descrição do Projeto**
+
+Vamos criar um programa que gerencie uma **lista de notas de alunos** e calcule a média. O usuário poderá:
+
+1. Inserir as notas de um aluno. (Cada aluno tem 5 notas)
+2. Exibir as notas e calcular a média.
+3. Verificar se o aluno foi aprovado ou reprovado (média >= 7 para aprovação).
+
+---
+
+### **Saída Esperada**
+
+```
+Gerenciador de Notas
+Digite a 1ª nota: 8
+Digite a 2ª nota: 7
+Digite a 3ª nota: 9
+Digite a 4ª nota: 6
+Digite a 5ª nota: 7
+
+Notas do aluno:
+8 7 9 6 7
+Média: 7.40
+O aluno foi APROVADO! 🎉
+
+```
+
+---
+
+### Extras：
+
+**1. Melhor tratamento de erros:**
+
+- Use `try/catch` para evitar erros de entrada inválida. (**Dica:** Lembre-se do **FormatException** e **ArgumentOutOfRangeException** para notas acima de 10 ou menores que 0)
+
+**2. Menu interativo:**
+
+- Adicione opções para cadastrar, listar alunos e sair.
+- 💡 **Dica:**  Utilize um laço de repetição
+    
+    **Exemplo de Saída:** 
+    
+
+```csharp
+=== Gerenciador de Notas ===
+1. Adicionar aluno
+2. Listar alunos
+3. Estatísticas
+4. Sair
+Escolha uma opção:
+```
+
+**3. Permitir múltiplos alunos:**
+
+- Armazene os nomes dos alunos junto com suas notas.
+- Permita cadastrar e consultar vários alunos.
+- 💡 **Dica:** Utilize mais um vetor
+
+**4. Ordenação das notas:**
+
+- Exiba as notas do aluno em - **ordem crescente** e **decrescente**.
+- 💡 **Dica:** Utilize **LINQ** e **Métodos Enumerable**: https://learn.microsoft.com/pt-br/dotnet/api/system.linq.enumerable?view=net-8.0
+- 💡 Pesquise os métodos: **OrderBy**, **OrderByDescending**, **ToArray**
+
+**5. Exibir estatísticas gerais:**
+
+- Média geral da turma.
+- Melhor e pior aluno.
+- 💡 **Dica:** Utilize **LINQ** e **Métodos Enumerable**: https://learn.microsoft.com/pt-br/dotnet/api/system.linq.enumerable?view=net-8.0
+- 💡 Pesquise o método: **Average**
+
+**6. Permitir exportação dos dados:**
+
+- Salve os dados em um arquivo `.txt`.
+- 💡 Material de Referência: https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-write-text-to-a-file
